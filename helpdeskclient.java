@@ -1,1 +1,1 @@
-Welcome to help desk client - Feature 1 
+welcome to helpdesk client - Feature 1 & Feature 2 
